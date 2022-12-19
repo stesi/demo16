@@ -2,3 +2,8 @@
 	path = OCA/pos
 	url = git@github.com:OCA/pos.git
 	branch = 16.0
+
+[submodule "ingegniamo/fix_planned_date_begin"]
+	path = ingegniamo/fix_planned_date_begin
+	url = git@github.com:ingegniamo/fix_planned_date_begin.git
+	branch = 16.0
